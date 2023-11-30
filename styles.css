@@ -1,0 +1,35 @@
+.nav{
+    list-style: none;
+
+    padding-left: 0%;
+
+    width: vw;
+
+    margin: auto;
+
+    text-align: center;
+}
+
+.nav>li{
+    border-style: outset;
+
+    border-radius: 10px;
+
+    display: inline-block;
+
+}
+
+.nav>li>a{
+    text-decoration: none;
+    color:black;
+
+}
+
+.nav>li>a:hover{
+    background-color: gold;
+}
+
+h1{
+    color: chartreuse;
+    font-family: fantasy;
+}
